@@ -12,9 +12,13 @@ Identifica los elementos de navegación en los siguientes sites:
 2. Github
 3. Medium
 
-#### Breather
-[Pdf Breather](assets/docs/Breather.pdf)
-[youtube website](assets/images/youtube.jpg)
-[youtube movil](assets/images/movil.jpg)
+***
+
+##### PDF con Elementos de navegación identificados en Breather
+[PDF Breather](assets/images/docs/Breather.pdf)
+##### PDF con Elementos de navegación identificados en Github
+[PDF Github](assets/images/docs/Github.pdf)
+##### PDF con Elementos de navegación identificados Medium
+[PDF Medium](assets/images/docs/Medium.pdf)
 
 
