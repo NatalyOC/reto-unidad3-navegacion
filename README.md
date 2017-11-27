@@ -13,7 +13,7 @@ Identifica los elementos de navegación en los siguientes sites:
 3. Medium
 
 #### Breather
-[pdf breather](assets/docs/Breather.docx)
+[Pdf Breather](assets/docs/Breather.pdf)
 [youtube website](assets/images/youtube.jpg)
 [youtube movil](assets/images/movil.jpg)
 
