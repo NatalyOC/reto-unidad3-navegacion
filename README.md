@@ -15,10 +15,10 @@ Identifica los elementos de navegación en los siguientes sites:
 ***
 
 ##### PDF con Elementos de navegación identificados en Breather
-[PDF Breather](assets/images/docs/Breather.pdf)
+[PDF Breather](assets/docs/Breather.pdf)
 ##### PDF con Elementos de navegación identificados en Github
-[PDF Github](assets/images/docs/Github.pdf)
+[PDF Github](assets/docs/Github.pdf)
 ##### PDF con Elementos de navegación identificados Medium
-[PDF Medium](assets/images/docs/Medium.pdf)
+[PDF Medium](assets/docs/Medium.pdf)
 
 
